@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Bagley%20AI%20🤖&fontSize=57&reversal=true&desc=&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
-[![Version-1.3](https://img.shields.io/badge/Version-1.3-green)](https://github.com/Hrithvik-Technologies/Bagley-AI/releases/tag/v1.3)
+[![Version-1.0](https://img.shields.io/badge/Version-1.0-green)](https://github.com/re-legion/bagley/releases/tag/v1.0)
 [![MIT](https://img.shields.io/badge/License-MIT-blue)](https://img.shields.io/badge/License-MIT-blue)
 [![Python3](https://img.shields.io/badge/Language-Python3-red)](https://img.shields.io/badge/Language-Python3-red)
 
@@ -10,13 +10,13 @@ Bagley is a **AI** 🤖 just like a google, alexa and siri!
 <img align="center" src=".img/Bagley.png" width="900">
 </p>
 
-[**Latest version**](https://github.com/Hrithvik-Technologies/Bagley-AI/releases/tag/v1.3)
+[**Latest version**](https://github.com/re-legion/bagley/releases/tag/v1.0)
 
 ## Installation ⚙️
 
 1. Fork/Clone/Download this repo
 
-    `git clone https://github.com/Hrithvik-Technologies/Bagley-AI.git`
+    `git clone https://github.com/re-legion/bagley.git`
 
 2. Navigate to the directory
 
